@@ -1,0 +1,2 @@
+export const EDIT_NUMBER_MIN = 'EDIT_NUMBER_MIN'
+export const EDIT_NUMBER_MAX = 'EDIT_NUMBER_MAX'
